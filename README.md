@@ -1,7 +1,10 @@
 # CPTS440-Group6-Project
 
 This repository contains the final group project for CPTS440/540: an AI-driven implementation of the game **Quoridor**, including an interactive game app and multiple agent testing frameworks.
-
+## This was a group project from my time in university
+- Please view the commit history to view the contributions
+- I worked on the A* pathfinding algorithm for the AI and I had to customize the AI to correspond with the games unique movement mechanics.
+  
 ## Project Structure
 ```text
 CPTS440-Group6-Project/
